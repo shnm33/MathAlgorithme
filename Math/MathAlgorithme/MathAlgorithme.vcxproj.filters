@@ -27,8 +27,11 @@
     <ClCompile Include="Base_Conversion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="PrimeNumber.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+=======
+>>>>>>> 465616b... [완료] Base_Conversion
   </ItemGroup>
 </Project>
