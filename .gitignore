@@ -3,3 +3,7 @@ Math/MathAlgorithme/MathAlgorithme.VC.VC.opendb
 Sort/SortAlgo/SortAlgo.vcxproj.filters
 Sort/SortAlgo/SortAlgo.VC.VC.opendb
 Graph/Graph/Graph.VC.VC.opendb
+<<<<<<< HEAD
+=======
+Graph/Graph/Graph.VC.db
+>>>>>>> Graph
