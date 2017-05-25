@@ -14,7 +14,7 @@ void dfs(int node) {
 	printf("%d ", node);
 	for (int i = 0; i < a[node].size(); i++) {
 		int next = a[node][i];
-		if (check[next] == false) { // 미방문일시다음 노드로
+		if (check[next] == false) { // 미방문일시dfs 실행 
 			dfs(next); 
 		}
 	}
@@ -34,7 +34,7 @@ int main() {
 	}
 	for (int i = 1; i <= n; i++) {
 		if (check[i] == false) {//해당 노드가 비 방문 노드면 탐색 후 갯수 +1
-			dfs(i);
+			dfs(i); 
 			components += 1;
 		}
 	}
