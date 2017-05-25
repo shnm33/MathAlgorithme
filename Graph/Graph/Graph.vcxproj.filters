@@ -24,5 +24,8 @@
     <ClCompile Include="bipartite graph.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="permutation circle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
