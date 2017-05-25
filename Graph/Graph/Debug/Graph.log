@@ -1,8 +1,8 @@
-﻿  DFSBFS.cpp
-c:\users\ojg-\documents\git_test\graph\graph\dfsbfs.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\ojg-\documents\git_test\graph\graph\dfsbfs.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\ojg-\documents\git_test\graph\graph\dfsbfs.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  ConnectedCompo.cpp
+c:\users\ojg-\documents\git_test\graph\graph\connectedcompo.cpp(15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ojg-\documents\git_test\graph\graph\connectedcompo.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
-c:\users\ojg-\documents\git_test\graph\graph\dfsbfs.cpp(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\ojg-\documents\git_test\graph\graph\connectedcompo.cpp(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  LINK : C:\Users\OJG-\Documents\git_test\Graph\Graph\Debug\Graph.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
   Graph.vcxproj -> C:\Users\OJG-\Documents\git_test\Graph\Graph\Debug\Graph.exe
